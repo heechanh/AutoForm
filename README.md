@@ -1,4 +1,4 @@
-# TỔNG QUAN DỰ ÁN: AUTOFORM DWH (DOCUGEN)
+# TỔNG QUAN DỰ ÁN: AUTOFORM DWH
 **Hệ thống Tự động Điền Biểu mẫu Tùy biến từ Dữ liệu Data Warehouse**
 
 ---
